@@ -71,13 +71,3 @@ The following explains how to configure the wrapper `.app` and install AIM insid
     2. In the Sign On/Off category, click `Connection`.
     3. Enter the server address in the `Host` field.
     4. Click `OK` and exit the preferences manager.
-
-## Modern AIM Providers
-
-Some new services have taken the place of AOL's AIM network after it shut down in 2017.
-
-- [Open OSCAR Server](https://github.com/mk6i/open-oscar-server) - Run your own AIM server!
-- [AIM Oscar Server](https://github.com/ox/aim-oscar-server) - Run your own server for AIM 3.0 and older!
-- [AIM Phoenix](https://iwarg.ddns.net/) - AIM service with a small, active community.
-- [Running Man Instant Messenger Network](https://runningman.network/) - AIM service for AIM 3.0 and older (not
-  currently supported by this project's AIM client version).
