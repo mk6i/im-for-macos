@@ -1,6 +1,6 @@
-# AIM for MacOS
+# IM for MacOS
 
-AIM for MacOS brings classic Windows AIM to modern MacOS for both Intel and Apple Silicon platforms.
+IM for MacOS brings classic Windows AIM to modern MacOS for both Intel and Apple Silicon platforms.
 
 
 | Disclaimer                                                                                                                                                                                                                           |
@@ -25,7 +25,7 @@ The following explains how to configure the wrapper `.app` and install AIM insid
 
 1. **Download the Latest Release**
 
-   Navigate to the [Releases](https://github.com/mk6i/aim-for-macos/releases) page of this repository and download the latest `.zip` archive.
+   Navigate to the [Releases](https://github.com/mk6i/im-for-macos/releases) page of this repository and download the latest `.zip` archive.
 
 
 2. **Unzip the `.app` File**
